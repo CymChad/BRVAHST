@@ -111,6 +111,7 @@ C y m  08:20:32
 Ziv  09:44:12  
 [使用AccessibilityService进行APK自动安装](http://url.cn/2FnDd37)
 
-
+Mr Smile  16:38:42  
+[关于 Android 进程保活](http://www.jianshu.com/p/63aafe3c12af?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
 
 
