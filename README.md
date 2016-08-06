@@ -133,3 +133,6 @@ _再见理想  11:40:56
 
 _再见理想  11:45:48  
 [完美的安卓model层架构（下）](http://blog.piasy.com/2016/05/12/Perfect-Android-Model-Layer-2/)
+
+C y m  11:54:59  
+[我见过讲MVP最好的文章](http://hannesdorfmann.com/android/mosby-playbook)
