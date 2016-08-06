@@ -115,4 +115,21 @@ Ziv  09:44:12
 Mr Smile  16:38:42  
 [关于 Android 进程保活](http://www.jianshu.com/p/63aafe3c12af?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
 
+##2016/8/6
+C y m  09:40:38   
+[程序员进阶宝典](http://www.jianshu.com/p/88cc0e0b9b18?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
 
+C y m  09:42:48  
+[Android开发经验谈](http://www.jianshu.com/p/d6611c8bd45c?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+
+Damon   09:44:30  
+[我们的独立思考：既不独立，也不思考](http://mp.weixin.qq.com/s?__biz=MzA5ODI5NTI5OQ==&mid=2651673109&idx=1&sn=06902aa2a5db93033c9114462bb51c9a&scene=2&srcid=0729XVG8BJMvrk0lK3eKezu3&from=timeline&isappinstalled=0#wechat_redirect)
+
+昆明-淡漠  11:38:40  
+[TextView实战之你真的懂我么？](http://blog.csdn.net/sdkfjksf/article/details/51317204)
+
+_再见理想  11:40:56  
+[完美的安卓model层架构（上）](http://blog.piasy.com/2016/05/06/Perfect-Android-Model-Layer/?utm_source=tuicool&amp;utm_medium=referral)
+
+_再见理想  11:45:48  
+[完美的安卓model层架构（下）](http://blog.piasy.com/2016/05/12/Perfect-Android-Model-Layer-2/)
