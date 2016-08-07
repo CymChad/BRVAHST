@@ -136,3 +136,10 @@ _再见理想  11:45:48
 
 C y m  11:54:59  
 [我见过讲MVP最好的文章](http://hannesdorfmann.com/android/mosby-playbook)
+
+##2016/8/7
+吻中求胜  00:00:23  
+[Dagger2使用初步](http://www.cnblogs.com/zhuyp1015/p/5119727.html)
+
+吻中求胜  00:03:11  
+[apt代码生成之实践入门](http://www.tuicool.com/articles/Rremym)
