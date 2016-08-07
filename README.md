@@ -154,7 +154,7 @@ C y m  12:05:26
 [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/?comefrom=http://blogread.cn/news/  )
 
 一叶飘舟  12:06:33  
-[AndroidLRecyclerView实现Item侧滑菜单、长按拖拽](http://blog.csdn.net/jdsjlzx/article/details/52133465)
+[Android LRecyclerView实现Item侧滑菜单、长按拖拽](http://blog.csdn.net/jdsjlzx/article/details/52133465)
 
 C y m  12:07:11  
 [深入探索Java 8 Lambda表达式](http://droidyue.com/blog/2015/11/28/article-java-8-lambdas-a-peek-under-the-hood/?comefrom=http://blogread.cn/news/)
