@@ -143,3 +143,19 @@ C y m  11:54:59
 
 吻中求胜  00:03:11  
 [apt代码生成之实践入门](http://www.tuicool.com/articles/Rremym)
+
+C y m  11:07:54  
+[Android Patch 方案与持续交付](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577579&idx=1&sn=a9396f8e429ee999cd5ee69dbdcc65f5&scene=1&srcid=0804h8uir1X7DqpcUo69sFmP#wechat_redirect)
+
+C y m  11:13:37  
+[深入理解 ButterKnife，让你的程序学会写代码](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577446&idx=1&sn=e1c12a2dc3d45babf66f86f4840bed2c&scene=1&srcid=0714X6k9l918Vp41kRS8dHnU#wechat_redirect)
+
+C y m  12:05:26  
+[聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/?comefrom=http://blogread.cn/news/  )
+
+一叶飘舟  12:06:33  
+[AndroidLRecyclerView实现Item侧滑菜单、长按拖拽](http://blog.csdn.net/jdsjlzx/article/details/52133465)
+
+C y m  12:07:11  
+[深入探索Java 8 Lambda表达式](http://droidyue.com/blog/2015/11/28/article-java-8-lambdas-a-peek-under-the-hood/?comefrom=http://blogread.cn/news/)
+
