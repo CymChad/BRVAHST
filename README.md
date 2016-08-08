@@ -159,3 +159,22 @@ C y m  12:05:26
 C y m  12:07:11  
 [深入探索Java 8 Lambda表达式](http://droidyue.com/blog/2015/11/28/article-java-8-lambdas-a-peek-under-the-hood/?comefrom=http://blogread.cn/news/)
 
+##2016/8/8
+C y m  14:25:32  
+[写出高效清晰Layout布局文件的一些技巧](http://www.jianshu.com/p/961442b8e5ef?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+谢『惜缘』%  14:42:57  
+[RecyclerView 和 ListView 使用对比分](http://www.diycode.cc/topics/221)
+
+Be there  14:51:17  
+[Fragment总结](http://www.jianshu.com/p/662c46cd3b5f)
+
+Be there  14:53:09  
+[掘金的浏览器插件]( http://gold.xitu.io/extension/)
+
+C y m  17:51:32  
+[Android开发人员不得不收集的代码(持续更新中)](http://www.jianshu.com/p/72494773aace)
+
+C y m  18:10:29  
+[带你学开源项目：Meizhi Android之RxJava & Retrofit最佳实践](https://wingjay.com/2016/04/13/%E5%B8%A6%E4%BD%A0%E5%AD%A6%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9AMeizhi-Android%E4%B9%8BRxJava-Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
+ 
