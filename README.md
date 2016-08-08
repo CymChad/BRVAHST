@@ -177,4 +177,9 @@ C y m  17:51:32
 
 C y m  18:10:29  
 [带你学开源项目：Meizhi Android之RxJava & Retrofit最佳实践](https://wingjay.com/2016/04/13/%E5%B8%A6%E4%BD%A0%E5%AD%A6%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9AMeizhi-Android%E4%B9%8BRxJava-Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
- 
+
+海口-子夜  20:57:02  
+[基于Jenkins+git+gradle的android持续集成](http://blog.csdn.net/voiceofnet/article/details/45197883)
+
+海口-子夜  21:04:51  
+[关于持续集成打包平台的Jenkins配置和构建脚本实现细节](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins-details/)
