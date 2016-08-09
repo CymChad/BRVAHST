@@ -183,3 +183,28 @@ C y m  18:10:29
 
 海口-子夜  21:04:51  
 [关于持续集成打包平台的Jenkins配置和构建脚本实现细节](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins-details/)
+
+##2016/8/9  
+C y m  00:37:13  
+[三个月刷题拿到 Google offer](http://www.diycode.cc/topics/220)
+
+哈尔滨 - 尤宇 °  07:33:46  
+[国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)
+
+哈尔滨 - 尤宇 °  07:51:17  
+[面试心得与总结---BAT、网易、蘑菇街](http://url.cn/2BMrXha)
+
+C y m  13:46:12  
+[搞定需求变化](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652547075&idx=3&sn=b16645e4aa512caa8f6086f64643ec09&scene=0#wechat_redirect)
+
+海口-子夜  14:31:59  
+[Rx处理服务器请求、缓存的完美封装](http://www.jianshu.com/p/cc064e3d5f21)
+
+哈尔滨 - 尤宇 °  16:42:05  
+[九宫格图片控件](https://github.com/jeasonlzy0216/NineGridView)
+
+海口-子夜  16:42:38  
+[Android中Retrofit+OkHttp进行HTTP网络编程的使用指南](http://www.jb51.net/article/88542.htm)
+
+郑州-Code4Android  20:55:06  
+[Retrofit用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)
