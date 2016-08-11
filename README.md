@@ -208,3 +208,33 @@ C y m  13:46:12
 
 郑州-Code4Android  20:55:06  
 [Retrofit用法详解](http://duanyytop.github.io/2016/08/06/Retrofit%E7%94%A8%E6%B3%95%E8%AF%A6%E8%A7%A3/)
+
+##2016/8/10
+Be there  08:57:17  
+[AndroidDeveloperWeeklyNo.4](http://stormzhang.com/weekly/2016/08/08/android-developer-weekly-no-4/)
+
+吻中求胜  09:01:38  
+[RxJava与改造结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)  
+[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+
+_再见理想  09:30:04  
+[自定义视图 - requestLayout传递与测量，布局流程分析](https://github.com/Idtk/Blog/blob/master/Blog/10%E3%80%81RequestLayout.md)
+
+昆明-淡漠  10:22:07  
+[用最优雅的方式startActivity](http://blog.csdn.net/TellH/article/details/52118367)
+
+一叶飘舟  11:07:49  
+[Android开发：使用Glide动态加载圆形图片和圆角图片](http://www.codes51.com/article/detail_155247.html)
+
+Be there  13:46:55  
+[打造最强RecyclerView，Item侧滑菜单，长按拖拽](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0805/4573.html)
+
+C y m  18:53:30  
+[教你步步为营掌握自定义View](http://www.jianshu.com/p/d507e3514b65?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+
+C y m  23:01:33  
+[技术的正宗与野路子](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261357&idx=1&sn=ebb11a1623e00ca8e6ad55c9ad6b2547&scene=2&srcid=0810MsKfVt1u31peJrzQQpQb&from=timeline&isappinstalled=0#wechat_redirect)
+
+#2016/8/11
+Titanium  01:08:25  
+[在Linux服务器上Hexo搭建Hexo：OS X、Windows与Linux本地环境](https://hexo.n4l.pw/how-to-set-up-hexo-blog-on-linux.html)
