@@ -238,3 +238,32 @@ C y m  23:01:33
 #2016/8/11
 Titanium  01:08:25  
 [在Linux服务器上Hexo搭建Hexo：OS X、Windows与Linux本地环境](https://hexo.n4l.pw/how-to-set-up-hexo-blog-on-linux.html)
+
+C y m  10:19:34  
+[流程图制作之Giffy Diagrams](http://www.jianshu.com/p/33648977d8ae)
+
+C y m  10:40:37  
+[Allen博客专栏](http://www.devcoder.cn/)
+
+C y m  10:43:43  
+[知道创宇研发技能表v3.1](http://blog.knownsec.com/Knownsec_RD_Checklist/index.html)
+
+爱孔孟  13:44:09  
+[秒杀系统架构分析与实战](http://my.oschina.net/xianggao/blog/524943)
+
+Be there  15:32:48  
+[Activity启动模式与任务栈(Task)全面深入记录（下）](http://blog.csdn.net/javazejian/article/details/52072131)
+
+_再见理想  18:20:02  
+[android高仿微信表情输入与键盘输入详解](http://blog.csdn.net/javazejian/article/details/52126391)
+
+C y m  18:33:55  
+[Android 进程保活招式大全](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8&scene=0#wechat_redirect)
+
+吻中求胜  21:02:43  
+[Retrofit+Rxjava+okhttp基本操作和统一处理的demo](https://github.com/wzgiceman/RxjavaRetrofitDemo-master)
+
+
+
+
+
