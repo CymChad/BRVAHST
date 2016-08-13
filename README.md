@@ -235,7 +235,7 @@ C y m  18:53:30
 C y m  23:01:33  
 [技术的正宗与野路子](http://mp.weixin.qq.com/s?__biz=MzA4NTg1MjM0Mg==&mid=2657261357&idx=1&sn=ebb11a1623e00ca8e6ad55c9ad6b2547&scene=2&srcid=0810MsKfVt1u31peJrzQQpQb&from=timeline&isappinstalled=0#wechat_redirect)
 
-#2016/8/11
+##2016/8/11
 Titanium  01:08:25  
 [在Linux服务器上Hexo搭建Hexo：OS X、Windows与Linux本地环境](https://hexo.n4l.pw/how-to-set-up-hexo-blog-on-linux.html)
 
@@ -263,7 +263,21 @@ C y m  18:33:55
 吻中求胜  21:02:43  
 [Retrofit+Rxjava+okhttp基本操作和统一处理的demo](https://github.com/wzgiceman/RxjavaRetrofitDemo-master)
 
+##2016/8/12
+C y m  09:46:19  
+[对青年人的商业建议有哪些？](https://www.zhihu.com/question/49427458/answer/115929449?from=timeline&isappinstalled=0)
 
+吻中求胜  09:52:23  
+[Rx处理服务器请求、缓存的完美封装](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820845&idx=1&sn=9b8b1c3982e3ed21d78434687a52df5a&scene=1&srcid=0812MvZwUrQ4GyQAi8UF7Q5X#rd)
 
+爱孔孟  15:46:01  
+[Dev开发者社区](http://dev.qq.com/)
+
+数据搬运工.帅  16:48:37  
+[分享一个可下拉刷新的ScrollView](http://blog.csdn.net/swust_chenpeng/article/details/39289721)
+
+##2016/8/13
+尤宇 °  09:03:42  
+[Android Studio下SVN的用法(1) - 初识SVN](http://blog.csdn.net/bevislius/article/details/52193165)(原创)
 
 
