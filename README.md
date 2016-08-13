@@ -280,4 +280,27 @@ C y m  09:46:19
 尤宇 °  09:03:42  
 [Android Studio下SVN的用法(1) - 初识SVN](http://blog.csdn.net/bevislius/article/details/52193165)(原创)
 
+Be there  09:54:17  
+[Android 插件化 热修复 动态部署 2016Android插件化框架和热修复技术的资料收集和汇总](https://www.figotan.org/2016/08/12/android-plugin-and-hotfix-collections/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+C y m  10:40:23  
+[十年来，编程领域有什么重要进展？](http://daily.zhihu.com/story/8662398?utm_campaign=in_app_share&utm_medium=iOS&utm_source=weixin&from=timeline&isappinstalled=0)
+
+丶四季  12:17:38  
+[简单、易懂的解决滑动冲突](http://blog.csdn.net/qq_32763839/article/details/52193392)(原创)
+
+Mr Smile  13:57:23  
+[JAVA基础:static和final](http://blog.csdn.net/qq_16791055/article/details/52198898)(原创)
+
+_再见理想  14:26:05  
+[搭建nexus仓库解决Android公共代码引用问题](http://xdeveloper.cn/da-jian-nexuscang-ku-jie-jue-androidgong-gong-dai-ma-yin-wen-wen-ti/)(原创)
+
+Be there  18:21:47  
+[Android工作一年后的反思](http://www.jianshu.com/p/b5da5752d532)(原创)
+
+C y m  18:23:52  
+[从拖延到高效，我推荐这7本书](http://www.jianshu.com/p/dcd62fbece07)(原创)
+
+吻中求胜  18:37:03  
+[Android学习之路（一）](http://www.jianshu.com/p/4ca2774bdf4c?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
 
