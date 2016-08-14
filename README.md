@@ -318,6 +318,9 @@ Be there  00:22:23
 [如何让内心强大起来：不断摆脱“表现型人格”](http://www.jianshu.com/p/fb155443690d?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
 
 Damon   01:51:40  
-[Android中WebView与JavaScript的交互（一）,各种Js](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)
+[Android中WebView与JavaScript的交互（一）,各种Js](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)(原创)
+
+一叶飘舟  10:53:22  
+[Retrofit使用flatmap操作符时处理错误、异常](http://blog.csdn.net/jdsjlzx/article/details/52096405)(原创)
 
 
