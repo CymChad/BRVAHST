@@ -303,3 +303,21 @@ C y m  18:23:52
 
 吻中求胜  18:37:03  
 [Android学习之路（一）](http://www.jianshu.com/p/4ca2774bdf4c?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)(原创)
+
+谢『惜缘』%  23:06:30  
+[自定义View实现圆形水波进度条](http://blog.csdn.net/xiehuimx/article/details/52198802)(原创)
+
+昆明-淡漠  23:28:55  
+[栗子——Android新特性之筛选菜单](http://www.jianshu.com/p/56a9787e3f2f)(原创)
+
+Titanium  23:53:18  
+[自定义View之自定义属性](http://loshine.me/2016/08/13/custom-view-attrs/)(原创)
+
+##2016/8/14
+Be there  00:22:23  
+[如何让内心强大起来：不断摆脱“表现型人格”](http://www.jianshu.com/p/fb155443690d?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+
+Damon   01:51:40  
+[Android中WebView与JavaScript的交互（一）,各种Js](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)
+
+
