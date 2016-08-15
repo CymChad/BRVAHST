@@ -11,6 +11,19 @@
 [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/?comefrom=http://blogread.cn/news/)(C y m)    
 [关于 Android 进程保活](http://www.jianshu.com/p/63aafe3c12af?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)(Mr Smile)
 ###分享者原创文章
+[Android中WebView与JavaScript的交互（一）,各种Js](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)(作者：Damon)  
+[Retrofit使用flatmap操作符时处理错误、异常](http://blog.csdn.net/jdsjlzx/article/details/52096405)(作者：一叶飘舟)  
+[Android Studio下SVN的用法(1) - 初识SVN](http://blog.csdn.net/bevislius/article/details/52193165)(作者：尤宇 °)  
+[简单、易懂的解决滑动冲突](http://blog.csdn.net/qq_32763839/article/details/52193392)(作者：丶四季)  
+[JAVA基础:static和final](http://blog.csdn.net/qq_16791055/article/details/52198898)(作者：Mr Smile)  
+[搭建nexus仓库解决Android公共代码引用问题](http://xdeveloper.cn/da-jian-nexuscang-ku-jie-jue-androidgong-gong-dai-ma-yin-wen-wen-ti/)(作者：_再见理想)  
+[Android工作一年后的反思](http://www.jianshu.com/p/b5da5752d532)(作者：Be there)  
+[从拖延到高效，我推荐这7本书](http://www.jianshu.com/p/dcd62fbece07)(作者：C y m)  
+[Android学习之路（一）](http://www.jianshu.com/p/4ca2774bdf4c?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)(作者：吻中求胜)  
+[自定义View实现圆形水波进度条](http://blog.csdn.net/xiehuimx/article/details/52198802)(作者：谢『惜缘』%)  
+[栗子——Android新特性之筛选菜单](http://www.jianshu.com/p/56a9787e3f2f)(作者：昆明-淡漠)  
+[自定义View之自定义属性](http://loshine.me/2016/08/13/custom-view-attrs/)(作者：Titanium)  
+
 
 
 
