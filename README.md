@@ -1,6 +1,6 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
-##2016/8 
+##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
 ###精选分享链接
 [as插件集合](http://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651433634&idx=1&sn=e5f65d8a0a2b85f7c22d8ccd4cf96a39&scene=23&srcid=0721vQcDls3Ak34dZY1y3h7o#rd)(分享者：昆明-淡漠)  
 [图解Android事件分发机制](http://www.jianshu.com/p/e99b5e8bd67b)(分享者：Ziv)  
@@ -23,7 +23,7 @@
 [自定义View实现圆形水波进度条](http://blog.csdn.net/xiehuimx/article/details/52198802)(作者：谢『惜缘』%)  
 [栗子——Android新特性之筛选菜单](http://www.jianshu.com/p/56a9787e3f2f)(作者：昆明-淡漠)  
 [自定义View之自定义属性](http://loshine.me/2016/08/13/custom-view-attrs/)(作者：Titanium)  
-
+[失败的自定义View总结](http://blog.csdn.net/qq_27965461/article/details/52203994)(作者：数据搬运工.帅)
 
 
 
