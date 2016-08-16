@@ -1,5 +1,19 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/15
+吻中求胜  09:27:30  
+[项目中处理 android 6.0 权限管理问题](http://gold.xitu.io/entry/57ad3bda79bc440058c52db0)  
+[可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)  
+[Android 全局异常捕获](http://gold.xitu.io/entry/5780d48e5bbb500061f690f9)  
+[从 Android 代码中来记忆 23 种设计模式](http://gold.xitu.io/entry/576d6653d342d30057bd726c)  
+[给 Android 初学者的 Gradle 知识普及](http://gold.xitu.io/entry/5778f8bd165abd0054b443b0)  
+
+爱孔孟  09:33:57  
+[🌹收集Android相关blog📢](https://github.com/ZQiang94/Andriod-collect-blogs)
+
+数据搬运工.帅  14:28:07  
+[失败的自定义View总结](http://blog.csdn.net/qq_27965461/article/details/52203994)(原创)
+
 ##2016/8/14
 Be there  00:22:23  
 [如何让内心强大起来：不断摆脱“表现型人格”](http://www.jianshu.com/p/fb155443690d?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
@@ -12,6 +26,9 @@ Damon   01:51:40
 
 Mr Smile  11:01:18  
 [深入理解java多态性](http://blog.csdn.net/thinkGhoster/article/details/2307001)
+
+C y m  22:51:57  
+[教你步步为营掌握自定义ViewGroup](http://www.jianshu.com/p/5e61b6af4e4c?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin&from=groupmessage&isappinstalled=1)
 
 ##2016/8/13
 尤宇 °  09:03:42  
