@@ -2,10 +2,10 @@
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##2016/8/16
 C y m  14:19:32  
-[如何成为一个通晓多种编程语言的程序员](http://www.ashan.org/archives/913)
-[ContentProvider简介](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232011&idx=1&sn=d43e2fd554d85ea0b5bfe0d36f63e865&scene=1&srcid=0814PK0EJzmaLGk4JBDQUtsa#rd)
-[Jgraph:图表控件](https://github.com/mychoices/Jgraph)
-[使用Mockito和Roboletric进行Android单元测试](http://mp.weixin.qq.com/s?__biz=MzIwOTQ1MjAwMg==&mid=2247483744&idx=1&sn=e322c5dc19952c563e00a24815399300&scene=0#wechat_redirect)
+[如何成为一个通晓多种编程语言的程序员](http://www.ashan.org/archives/913)  
+[ContentProvider简介](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232011&idx=1&sn=d43e2fd554d85ea0b5bfe0d36f63e865&scene=1&srcid=0814PK0EJzmaLGk4JBDQUtsa#rd)  
+[Jgraph:图表控件](https://github.com/mychoices/Jgraph)  
+[使用Mockito和Roboletric进行Android单元测试](http://mp.weixin.qq.com/s?__biz=MzIwOTQ1MjAwMg==&mid=2247483744&idx=1&sn=e322c5dc19952c563e00a24815399300&scene=0#wechat_redirect)  
 
 淡漠de人生  14:49:02  
 [Android Studio 三种添加插件的方式](http://blog.csdn.net/yy1300326388/article/details/46409637)
