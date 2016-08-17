@@ -1,5 +1,19 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/16
+C y m  14:19:32  
+[如何成为一个通晓多种编程语言的程序员](http://www.ashan.org/archives/913)
+[ContentProvider简介](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651232011&idx=1&sn=d43e2fd554d85ea0b5bfe0d36f63e865&scene=1&srcid=0814PK0EJzmaLGk4JBDQUtsa#rd)
+[Jgraph:图表控件](https://github.com/mychoices/Jgraph)
+[使用Mockito和Roboletric进行Android单元测试](http://mp.weixin.qq.com/s?__biz=MzIwOTQ1MjAwMg==&mid=2247483744&idx=1&sn=e322c5dc19952c563e00a24815399300&scene=0#wechat_redirect)
+
+淡漠de人生  14:49:02  
+[Android Studio 三种添加插件的方式](http://blog.csdn.net/yy1300326388/article/details/46409637)
+
+Ziv  17:48:29  
+[Binder学习指南](http://weishu.me/2016/01/12/binder-index-for-newer/)
+
+
 ##2016/8/15
 吻中求胜  09:27:30  
 [项目中处理 android 6.0 权限管理问题](http://gold.xitu.io/entry/57ad3bda79bc440058c52db0)  
@@ -13,6 +27,9 @@
 
 数据搬运工.帅  14:28:07  
 [失败的自定义View总结](http://blog.csdn.net/qq_27965461/article/details/52203994)(原创)
+
+Mr Smile  22:45:02  
+[史上最全 Android 面试资料集合](http://gold.xitu.io/entry/57b10ae92e958a00545cf899)
 
 ##2016/8/14
 Be there  00:22:23  
