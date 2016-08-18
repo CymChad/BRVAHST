@@ -1,5 +1,9 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/17
+C y m  22:00:29  
+[怎样读书，才能转化为你的精神财富？](http://mp.weixin.qq.com/s?__biz=MzAwOTEzMTkzNw==&mid=2663314938&idx=1&sn=661218e16f0643c53fa0c15fb008d609&scene=2&srcid=0817ciXr3S3tma1ivv38OecV&from=timeline&isappinstalled=0#wechat_redirect)
+
 ##2016/8/16
 C y m  14:19:32  
 [如何成为一个通晓多种编程语言的程序员](http://www.ashan.org/archives/913)  
