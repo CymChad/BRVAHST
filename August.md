@@ -1,6 +1,34 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##2016/8/17
+C y m  09:03:10  
+[Android的极简反射教程](http://www.woaitqs.cc/android/2016/07/14/android-reflection.html)
+
+Damon   10:22:32  
+[速度成为速读达人](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056728&idx=1&sn=6080d563c8bb1c0e0e6964a9e10f68fd&scene=1&srcid=0818jz6UC55UFdlGQwbEtOH8#rd)
+
+_再见理想  14:05:12  
+[Android6.0权限适配，比你想的还要简单](http://xdeveloper.cn/android6-0quan-xian-gua-pei-bi-ni-xiang-de-huan-yao-jian-dan-2/)(原创)
+
+Titanium  14:57:58  
+[React Native & Redux](http://blog.zhaiyifan.cn/2016/08/04/android-new-project-from-0-p10/)
+
+Titanium  17:48:17  
+[gitflow工作流](http://ownwell.github.io/2016/08/17/git-work-flow/)
+
+Ziv  17:54:53  
+[Android中startService基本使用方法概述](http://www.jb51.net/article/76470.htm)
+
+Ziv  17:55:38  
+[Android中bindService基本使用方法概述](http://www.jb51.net/article/76474.htm)
+
+ 谢『惜缘』%  20:21:45  
+ [代码重构的实战经验和那些坑](http://www.codeceo.com/article/code-refactoring-hole.html#0-tsina-1-18456-397232819ff9a47a7b7e80a40613cfe1)
+ 
+ 尤宇 °  20:28:13  
+ [15 个 Android 通用流行框架大全](http://www.androidchina.net/4920.html#rd?sukey=3903d1d3b699c208f96a43a12fc2e7ae683c66523214d79bc81eec0c330d577be318928c65eee6cc5dc28db3e117d1ef)
+
+##2016/8/17
 C y m  22:00:29  
 [怎样读书，才能转化为你的精神财富？](http://mp.weixin.qq.com/s?__biz=MzAwOTEzMTkzNw==&mid=2663314938&idx=1&sn=661218e16f0643c53fa0c15fb008d609&scene=2&srcid=0817ciXr3S3tma1ivv38OecV&from=timeline&isappinstalled=0#wechat_redirect)
 
