@@ -1,5 +1,30 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/18
+Ziv  08:34:44  
+[NIPPONCOLORS-日本の伝统色](http://nipponcolors.com/#nae)
+
+吻中求胜  09:45:14  
+[可能是讲解Binder机制最好的文章](http://www.jianshu.com/p/1eff5a13000d?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+
+Titanium  09:49:02  
+[Android 最新 Support V4 包大拆分有用吗？](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=2654472617&idx=1&sn=f8a61e2232c40329d83b05e94d5a7159&scene=0#wechat_redirect)
+
+Titanium  10:02:27  
+[WebView 你真的熟悉吗？看了才知道](http://gold.xitu.io/entry/57b586d35bbb50006303c7e7)
+
+一叶飘舟  10:20:03  
+[AndroidRetrofit实现文件和多张图片一起上传](http://blog.csdn.net/jdsjlzx/article/details/52246114)(原创)
+
+尤宇 °  10:28:38  
+[Android APP终极瘦身指南](http://jayfeng.com/2016/03/01/Android-APP%E7%BB%88%E6%9E%81%E7%98%A6%E8%BA%AB%E6%8C%87%E5%8D%97/)
+
+Damon   10:52:27  
+[打造精简、高效的最好Android工具库！](https://github.com/openproject/LessCode)
+
+吻中求胜  15:46:07  
+[RxJava系列专题（Android方向）](http://www.jianshu.com/collection/d79a6385bded)
+
 ##2016/8/17
 C y m  09:03:10  
 [Android的极简反射教程](http://www.woaitqs.cc/android/2016/07/14/android-reflection.html)
