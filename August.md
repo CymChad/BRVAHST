@@ -1,6 +1,19 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
-##2016/8/18
+##2016/8/20
+C y m  11:56:55  
+[自定义View系列总结目前12篇文章](https://github.com/GcsSloop/AndroidNote#custom_view)
+
+Be there  12:45:42  
+[Android 画笔Paint](http://wuxiaolong.me/2016/08/20/Paint/)
+
+Mr Smile  15:23:08  
+[Context都没弄明白，还怎么做Android开发?](http://www.jianshu.com/p/94e0f9ab3f1d)
+
+Ziv  23:10:52  
+[Android打包系列——多渠道快速打包](http://mp.weixin.qq.com/s?__biz=MzA5MTE1NTE5NQ==&mid=2653352726&idx=1&sn=110c68efae9fa7b68667190a70d27ffc&scene=1&srcid=0820EKst3eSIl1extpT6YV21#rd)
+
+##2016/8/19
 Ziv  08:34:44  
 [NIPPONCOLORS-日本の伝统色](http://nipponcolors.com/#nae)
 
@@ -25,7 +38,7 @@ Damon   10:52:27
 吻中求胜  15:46:07  
 [RxJava系列专题（Android方向）](http://www.jianshu.com/collection/d79a6385bded)
 
-##2016/8/17
+##2016/8/18
 C y m  09:03:10  
 [Android的极简反射教程](http://www.woaitqs.cc/android/2016/07/14/android-reflection.html)
 
