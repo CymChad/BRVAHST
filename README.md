@@ -1,4 +1,5 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
+![](https://github.com/CymChad/BRVAHST/blob/master/share.png)
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
 ###分享者原创文章
