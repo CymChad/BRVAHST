@@ -1,5 +1,14 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/21
+C y m  22:12:07  
+[关于App程序员泡沫](http://www.jianshu.com/p/b43def7c8c42)
+
+Mr Smile  22:18:37  
+[AndroidShareGroup 技术周报（第三期）](http://gold.xitu.io/entry/57b906c9df0eea0063350ec9)
+
+吻中求胜  23:13:33  
+[Android 自定义控件三部曲文章索引](https://gold.xitu.io/entry/573d639471cfe448aa93fa8b)
 ##2016/8/20
 C y m  11:56:55  
 [自定义View系列总结目前12篇文章](https://github.com/GcsSloop/AndroidNote#custom_view)
