@@ -1,5 +1,21 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/22
+尤宇 °  08:16:30  
+[BAT|无线工程师面试流程详细解析](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236819&idx=1&sn=124d10551f631d08537716dcf4888463&scene=0#wechat_redirect)
+
+Be there  13:37:43  
+[独立开发者系列文章 之 开发篇](https://zhuanlan.zhihu.com/p/22112974)
+
+一叶飘舟  08:43:50  
+[接口地址加密和API权限设计保护服务器上的](http://m.blog.csdn.net/article/details?id=51644798)
+
+Ziv  17:50:27  
+[数据采集与埋点](https://sensorsdata.cn/blog/shu-ju-jie-ru-yu-mai-dian/)
+
+谢『惜缘』%  17:58:12  
+[Volley用法全解析](http://android.jobbole.com/84248/)
+
 ##2016/8/21
 C y m  22:12:07  
 [关于App程序员泡沫](http://www.jianshu.com/p/b43def7c8c42)
