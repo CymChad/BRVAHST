@@ -1,5 +1,21 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/23
+吻中求胜  07:36:37  
+[史上最全Android面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
+
+Damon   09:51:36  
+[Android沉浸式状态栏完全解析](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236820&idx=1&sn=78cc47bc3448d59b391faab8ca3c5123&scene=1&srcid=0823UkqOAFYDQ9hqpOynuV6G#rd)
+
+吻中求胜  13:59:01  
+[Android开发必备知识：为什么说Kotlin值得一试](http://www.cnblogs.com/bugly/p/5219895.html)
+
+Titanium  15:50:06  
+[Android开发学习之路-DiffUtil使用教程](http://www.cnblogs.com/Fndroid/p/5789470.html)
+
+淡漠de人生  16:34:57  
+[一步一步教你如何实现阿里芝麻信用分仪表盘效果](http://www.jianshu.com/p/f09feb25b54d#)
+
 ##2016/8/22
 尤宇 °  08:16:30  
 [BAT|无线工程师面试流程详细解析](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236819&idx=1&sn=124d10551f631d08537716dcf4888463&scene=0#wechat_redirect)
