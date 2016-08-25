@@ -1,5 +1,18 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/24
+C y m  14:16:13  
+[Android开发各类常见错误解决方案](http://www.jianshu.com/p/c5db81cbc438)  
+[波浪开源库](https://github.com/poldz123/ShapeRipple)  
+[BAT Android工程师面试流程解析+还原最真实最完整的一线公司面试题](http://blog.csdn.net/sk719887916/article/details/47040931)  
+[硅谷没有产品经理](http://mp.weixin.qq.com/s?__biz=MzA5ODMzMDkzOA==&mid=2661074633&idx=1&sn=48e4e8bbd603d2eca71080384b51aa4c&scene=1&srcid=082321M2sbjonzRNGDe4pLXF#wechat_redirect)  
+
+一叶飘舟  17:11:23  
+[AndroidRetrofit实现图文上传-文字参数类型](http://blog.csdn.net/jdsjlzx/article/details/52301505)(原创)
+
+Be there  22:58:43  
+[Android Application启动流程分析](http://www.jianshu.com/p/a5532ecc8377?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+
 ##2016/8/23
 吻中求胜  07:36:37  
 [史上最全Android面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
