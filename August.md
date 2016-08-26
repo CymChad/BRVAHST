@@ -1,5 +1,26 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/25
+Titanium  01:10:22  
+[Android adb 你真的会用吗?](https://gold.xitu.io/entry/57bda85479bc440063b93b79)
+
+谢『惜缘』%  07:37:34  
+[如果有人问你数据库的原理，叫他看这篇文](http://blog.jobbole.com/100349/)
+
+吻中求胜  07:39:18  
+[贝塞尔曲线画的WaveView，波浪头的效果](http://sc.qq.com/fx/u?r=0GAcKuA)
+
+Titanium  09:59:37  
+[一个通用的 RecyclerView.Adapter notify 方案](http://loshine.me/2016/08/25/a-universal-solution-of-recyclerview-adapter-notify/)(原创)
+
+Be there  20:06:52   
+[如何有效的清除Android中无用的资源（静态代码分析）](http://gold.xitu.io/post/57bd6f79efa631005a916096?utm_source=gold_browser_extension)
+
+Be there  20:12:32  
+[Android 开发中的日常积累](https://github.com/lizhangqu/corelink)
+
+Be there  20:14:21  
+[花一万个小时练习 Coding，不要浪费一万小时无谓地 Debugging](http://mp.weixin.qq.com/s?__biz=MjM5OTM0MzIwMQ==&mid=2652547386&idx=1&sn=8e5e23ebca1ef7b050ea5c2e4531d150&scene=0#wechat_redirect)
 ##2016/8/24
 C y m  14:16:13  
 [Android开发各类常见错误解决方案](http://www.jianshu.com/p/c5db81cbc438)  
