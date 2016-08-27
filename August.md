@@ -1,5 +1,12 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/26
+C y m  08:45:13  
+[酷炫的ViewPager](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
+
+C y m  17:01:24  
+[基于RxJava的一种MVP实现](http://dev.qq.com/topic/57bfef673c1174283d60bac0)
+
 ##2016/8/25
 Titanium  01:10:22  
 [Android adb 你真的会用吗?](https://gold.xitu.io/entry/57bda85479bc440063b93b79)
