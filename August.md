@@ -1,5 +1,8 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/27
+C y m  09:18:27  
+[重构笔记](https://github.com/CymChad/BRVAHST/blob/master/res/%E9%87%8D%E6%9E%84.txt)(原创)
 ##2016/8/26
 C y m  08:45:13  
 [酷炫的ViewPager](https://github.com/DevLight-Mobile-Agency/InfiniteCycleViewPager)
