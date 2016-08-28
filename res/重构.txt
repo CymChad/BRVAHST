@@ -1,0 +1,203 @@
+重构的基本定义：重构是在不改变软件可观察行为的前提下改善其内部结构。
+
+重构技术就是要以微小的步伐修改程序。如果你犯下错误，很容易便可发现它。
+
+
+- 一个方法里面，不应该有很多的代码，我们可以通过分解后重组。
+- 好的代码应该清楚的表达出自己的功能，变量名称是代码清晰的关键。
+- 尽量减少临时变量，大量参数被传来传去，很容易跟丢，可读性差。
+-  提炼出逻辑代码，以便功能复用。
+- 运用多态取代与价格相关的条件逻辑。State模式（统一的接口，可以切换状态） or Strategy模式（统一的接口）
+
+重构（名词）：对软件内部结构的一种调整，目的是在不改变软件可观察行为的前提下，提高其可理解性，降低其修改成本。
+重构（动词）：使用一系列重构首发，在不改变软件可观察行为的前提下，调整其结构。
+
+为何重构？
+
+- 重构改进软件设计
+- 重构是软件更容易理解
+- 重构帮助找到bug
+- 重构提高编程速度
+
+何时重构？
+几乎任何情况下我都反对专门拔出时间进行重构。在我看来重构本来就不是一件应该特别拨出时间做的事情，重构应该随时随地的进行。你不应该为重构而重构，你之所以重构，是因为你想做别的什么事，而重构可以帮助你把那些事做好。
+
+三次法则
+第一次做某件事只管去做，第二次做类似的事情会有反感，第三次再做类似的事，你就应该重构。
+事不过三，三则重构。
+
+- 添加功能时重构
+- 修补错误时重构
+- 复审代码时重构（结对编程）
+
+为什么重构有用？
+难以修改的程序
+
+- 难以阅读的
+- 逻辑重复的
+- 添加新行为需要修改已有代码的
+- 带复杂条件逻辑的
+
+好的程序
+
+- 容易阅读
+- 所有逻辑都只是在唯一地点指定
+- 新的改动不会危及现有行为
+- 尽可能简单表达条件逻辑
+
+重构是这样一个过程：它在一个目前可运行的程序上进行，在不改变程序行为的前提下使其具备上述美好性质，使我们能够继续保持高速开发，从而新增程序的价值。
+
+何时不该重构？
+
+- 无法稳定运行直接重写不用重构
+- 项目以及接近最后期限，不应该重构，虽然重构能够提高生产力，但是你没有足够的时间，通常标示你其实早该进行重构了。
+
+代码的坏味道
+
+- Duplicated Code 重复代码
+- Long Method 过长函数
+- Large Class 过大的类
+- Long Parameter List 过长参数列
+- Divergent Change 发散式变化
+- Shotgun Surgery 散弹式修改
+- Feature Envy 依恋情结 （Strategy\Visitor）
+- Data Clumps 数据泥团
+- Primitive Obsession 基本类型偏执
+- Switch Statements switch惊悚现身 （使用多态性替换）
+- Parallel Inheritance Hierarchies 平行继承体系
+- Lazy Class 冗赘类
+- Speculative Generality 夸夸其谈未来性
+- Temporary Field 令人迷惑的暂时字段
+- Message Chains 过渡耦合的消息链
+- Middle Man 中间人
+- Inappropriate Intimacy 狎昵关系
+- Alternative Classes with Different Interfaces 异曲同工的类
+- Incomplete Library Class 不完美的库类
+- Data Class 纯稚的数据类
+- Refused Bequest 被拒绝的遗赠
+- Comments 过多的注释
+
+当你感觉需要撰写注释时，请先尝试重构，试着让所有注释变得多余。
+
+构建测试体系
+
+确保所有测试都完全自动化，让他们检查自己的测试结果。
+一套测试就是一个强大的bug侦察器，能够大大缩减查找bug所需要的时间。
+频繁地运行测试。每次编译请把测试也考虑进去—— 每天至少执行每个测试一次。
+每当你收到bug报告，请先写一个单元测试来暴露这个bug。
+编写未完善的测试并执行，好过对完美测试的无尽等待。
+考虑可能出错的边界条件，把测试火力集中在那儿。
+当事情被认为应该会出错时，别忘了检查是否抛出了预期的异常。
+不要因为测试无法捕捉所有bug就不写测试，因为测试可以捕捉到大多数的bug。
+
+重构列表
+
+重构记录格式
+
+- 名称
+- 概要
+    - 描述解决的问题
+    - 描述要做的事情
+    - 速写图展示重构前和重构后的示例
+- 动机
+- 做法
+- 范例
+
+重构的基本技巧—小步前进、频繁测试
+模式和重构之间有着一种与生俱来的关系。模式是你希望到达的目标，重构则是到达之路。
+
+重新组织函数
+
+- Extract Method 提炼函数
+    - 每个函数的颗粒很小，那么函数被复用的机会就更大。
+- Inline Method 内联函数
+- Inline Temp 内联临时变量
+- Replace Temp with Query 已查询取代临时变量
+    - 把只赋值一次的变量，用函数的方式替换掉
+        - 先把临时变量声明为final，检查他是否被赋值一次
+        - 然后进行函数的替换
+- Introduce Explaining Variable 引入解释性变量
+- Split Temporary Variable 分解临时变量
+- Remove Assignments to Parameters 移除对参数的赋值
+- Replace Method with Method Object 以函数对象取代函数
+- Substitute Algorithm 替换算法
+
+在对象之间搬移特性
+
+- Move Method 搬移函数
+- Extract Class 提炼类
+- Inline Class 将类内敛化
+- Hide Delegate 隐藏委托类
+- Remove Middle Man 移除中间人
+- Introduce Foreign Method 引入外加函数
+- Introduce Local Extension 引入本地扩展
+
+重新组织数据
+
+- Self Encapsulate Field 自封装字段
+- Replace Data Value with Object 以对象取代数据值
+- Change Value to Reference 将值对象改成引用对象 （引用对象：单例）
+- Change Reference to Value 将引用对象改成值对象 （equals hashCode）
+- Replace Array with Object 以对象取代数组
+- Duplicate Observed Data 复制“被监听数据” （MVC）
+- Change Unidirectional Association to Bidirectional 将单向关联改为双向关联
+- Change Bidirectional Association to Unidirectional 将双向关联改成单向关联
+- Replace Magic Number with Symbolic Constant 以字面常量取代魔法数
+- Encapsulate Field 封装字段
+- Encapsulate Collection 封装集合
+- Replace Record with Data Class 以数据类取代记录
+- Replace Type Code with Class 以类取代类型码
+- Replace Type Code with Subclasses 以子类取代类型码 （多态机制）
+- Replace Type Code with State/Strategy 以State/Strategy取代类型码
+- Replace Subclass with Fields 以字段取代子类
+
+简化条件表达式
+
+- Decompose Conditional 分解条件表达式
+- Consolidate Conditional Expression 合并条件表达式 （三元操作符）
+- Consolidate Duplicate Conditional Fragments 合并重复的条件片段
+- Remove Control Flag 移除控制标记 （break/continue/return）
+- Replace Nested Conditional with Guard Clauses 以卫语句取代嵌套条件表达式 （单独判断被称为“卫语句”）
+- Replace Conditional with Polymorphism 以多态取代条件表达式
+- Introduce Null Object 引入Null对象
+- Introduce Assertion 引入断言
+
+简化函数调用
+
+- Rename Method 函数改名
+- Add Parameter 添加参数
+- Remove Parameter 移除参数
+- Separate Query from Modifier 讲查询函数和修改函数分离
+- Parameterize Method 令函数携带参数
+- Replace Parameter with Explicit Methods 以明确函数取代参数
+- Preserve Whole Object 保持对象完整
+- Replace Parameter with Methods 以函数取代参数
+- Introduce Parameter Object 引入参数对象
+- Remove Setting Method 移除设置函数
+- Hide Method 隐藏函数
+- Replace Constructor with Factory Method 以工厂函数取代构造函数
+- Encapsulate Downcast 封装向下转型
+- Replace Error Code with Exception 以异常取代错误码
+- Replace Exception with Test 以测试取代异常
+
+处理概括关系
+
+- Pull Up Field 字段上移
+- Pull Up Method 函数上移
+- Pull Up Constructor Body 构造函数本体上移
+- Push Down Method 函数下移
+- Push Down Field 字段下移
+- Extract Subclass 提炼子类
+- Extract Superclass 提炼超类
+- Extract Interface 提炼接口
+- Collapse Hierarchy 折叠继承体系
+- Form Template Method 塑造模板函数
+- Replace Inheritance with Delegation 以委托取代继承
+- Replace Delegation with Inheritance 以继承取代委托
+
+大型重构
+
+- Tease Apart Inheritance 梳理并分解继承体系
+- Convert Procedural Design to Objects 将过程化设计转化为对象设计
+- Separate Domain from Presentation 将领域和表述/显示分离
+- Extract Hierarchy 提炼继承体系
