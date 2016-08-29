@@ -1,6 +1,16 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##2016/8/27
+Mr Smile  11:32:15  
+[关于Android软键盘弹出的问题](http://blog.csdn.net/qq_16791055/article/details/52343886)(原创)
+
+C y m  20:15:24  
+[每个开发者都应该懂一点单元测试](https://zhuanlan.zhihu.com/p/22202880)
+
+Ziv  22:09:39  
+[专访任玉刚](http://mp.weixin.qq.com/s?__biz=MzI4NzQyODEzNQ==&mid=2247483662&idx=1&sn=d2370d9efd7f78f1f53f71ea68eea6e9&scene=1&srcid=0828wXhG0HUVeOYyO8MyVHsm#rd)
+
+##2016/8/27
 C y m  09:18:27  
 [重构笔记](https://github.com/CymChad/BRVAHST/blob/master/res/%E9%87%8D%E6%9E%84.txt)(原创)
 ##2016/8/26
