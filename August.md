@@ -14,7 +14,7 @@ Mr Smile  13:31:21
 [超级船东 货主版](https://github.com/ziyeyouhu/GoodserApp)(原创)
 
 C y m  18:04:07  
-[如何实施代码重构？](http://www.jianshu.com/p/dac7979f5a29)
+[如何实施代码重构？](http://www.jianshu.com/p/dac7979f5a29)(原创)
 
 吻中求胜  23:59:05  
 [与21岁CEO一起来实现小目标](http://url.cn/2EhlpNo)
