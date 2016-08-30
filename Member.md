@@ -45,10 +45,6 @@ Mr Smile
 Damon  
 hi，大家好，我是silence，人如其名，是个安静的美男子，从事Android开发4年了，目前在北京鹅厂。我的博客地址 http://motalks.cn/ 。工作成家后这些年，很多激情被磨灭了，感觉有点堕落，所以来这里自救了，希望大家不要嫌弃，互相学习，互相进步。
 
-Ziv  
-大家好，我是Ziv，2年Android开发，目前坐标深圳。喜欢编程，游泳，跑步（程序员得多锻炼~）。我的博客地址: http://www.jianshu.com/users/931023e2bfc7/latest_articles
-github地址: https://github.com/XiaoJiaqing
-
 _再见理想  
 大家好，我叫赖亦敏，来自深圳，三年工作经验，前后做过Java和Android，是Android手机的老粉丝，目前在创业公司。兴趣是最好的老师，很庆幸一直以来对技术的热情从未减退。来这的目的一是想结交一些技术上的朋友，二是秉承分享精神，希望能在这里与大家一同成长。
 
