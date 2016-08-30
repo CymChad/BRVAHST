@@ -1,5 +1,24 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/28
+尤宇  09:50:58  
+[Android 中的Adapter使用初探](http://blog.csdn.net/bevislius/article/details/52347127)(原创)
+
+C y m  10:02:24  
+[有效进行一对一谈话的十条准则](http://note.youdao.com/share/mobile.html?id=4558cbec8d4a60a49efd456c45b24b0f&type=note&from=timeline&isappinstalled=0#/)
+
+Mr Smile  13:31:21  
+[Android Framework如何学习，从应用到Framework层怎么平稳过度?](http://www.jianshu.com/p/14daa5ffcc36)
+
+吻中求胜  15:07:39  
+[超级船东 货主版](https://github.com/ziyeyouhu/GoodserApp)(原创)
+
+C y m  18:04:07  
+[如何实施代码重构？](http://www.jianshu.com/p/dac7979f5a29)
+
+吻中求胜  23:59:05  
+[与21岁CEO一起来实现小目标](http://url.cn/2EhlpNo)
+
 ##2016/8/27
 Mr Smile  11:32:15  
 [关于Android软键盘弹出的问题](http://blog.csdn.net/qq_16791055/article/details/52343886)(原创)
