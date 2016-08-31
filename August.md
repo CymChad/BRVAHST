@@ -1,6 +1,10 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##2016/8/29
+
+谢『惜缘』%   23:05:57  
+[ 详谈高大上的图片加载框架Glide](http://blog.csdn.net/xiehuimx/article/details/52349317)(原创)
+
 丶四季  11:24:58  
 [拍照、相册及裁剪的终极实现（一）——拍照及裁剪功能实现](http://blog.csdn.net/harvic880925/article/details/43163175)
  
