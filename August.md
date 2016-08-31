@@ -38,6 +38,9 @@ Mr Smile  13:31:21
 C y m  18:04:07  
 [如何实施代码重构？](http://www.jianshu.com/p/dac7979f5a29)(原创)
 
+谢『惜缘』%   23:05:57    
+[详谈高大上的图片加载框架Glide](http://blog.csdn.net/xiehuimx/article/details/52349317)(原创)
+
 吻中求胜  23:59:05  
 [与21岁CEO一起来实现小目标](http://url.cn/2EhlpNo)
 
