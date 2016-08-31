@@ -1,6 +1,6 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
-##2016/8/29
+##2016/8/30
 丶四季  11:24:58  
 [拍照、相册及裁剪的终极实现（一）——拍照及裁剪功能实现](http://blog.csdn.net/harvic880925/article/details/43163175)
  
@@ -22,7 +22,7 @@ Titanium  16:36:07
 一叶飘舟  18:53:29  
 [一个三流学校程序员的奋斗](http://blog.csdn.net/jdsjlzx/article/details/7645360)
 
-##2016/8/28
+##2016/8/29
 尤宇  09:50:58  
 [Android 中的Adapter使用初探](http://blog.csdn.net/bevislius/article/details/52347127)(原创)
 
@@ -41,7 +41,7 @@ C y m  18:04:07
 吻中求胜  23:59:05  
 [与21岁CEO一起来实现小目标](http://url.cn/2EhlpNo)
 
-##2016/8/27
+##2016/8/28
 Mr Smile  11:32:15  
 [关于Android软键盘弹出的问题](http://blog.csdn.net/qq_16791055/article/details/52343886)(原创)
 
