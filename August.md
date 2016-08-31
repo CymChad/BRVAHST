@@ -1,5 +1,27 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/29
+丶四季  11:24:58  
+[拍照、相册及裁剪的终极实现（一）——拍照及裁剪功能实现](http://blog.csdn.net/harvic880925/article/details/43163175)
+ 
+Damon   11:37:29  
+[Android 自定义RecyclerView 实现真正的Gallery效果](http://blog.csdn.net/lmj623565791/article/details/38173061/) 
+
+Be there  13:05:30  
+[五年Android开发，让我“刻骨铭心”的那些坑](http://mp.weixin.qq.com/s?__biz=MzIwNjQ1NzQxNA==&mid=2247483658&idx=1&sn=451a063ef5bf3f3689e5af6153762fcd&scene=1&srcid=081912jNN9TJLf5BeZgdjTvl#rd)
+
+C y m  13:35:01  
+[蓝色骨头](http://mp.weixin.qq.com/s?__biz=MjM5ODIyMTE0MA==&mid=2650968619&idx=1&sn=4f4af9a80b5443a23710d4a8c12e54ad&chksm=bd3836108a4fbf06aec99314c5bbd91e2727e23d8a639da21997f2947a9491333c762c1276c2&scene=0#wechat_redirect)
+
+C y m  13:35:27  
+[VOL.1422](http://m.wufazhuce.com/one/1452)
+
+Titanium  16:36:07  
+[DataBinding踩坑Tips](http://avenwu.net/2016/03/31/android-data-binding/)
+
+一叶飘舟  18:53:29  
+[一个三流学校程序员的奋斗](http://blog.csdn.net/jdsjlzx/article/details/7645360)
+
 ##2016/8/28
 尤宇  09:50:58  
 [Android 中的Adapter使用初探](http://blog.csdn.net/bevislius/article/details/52347127)(原创)
