@@ -1,5 +1,16 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/8/31
+C y m  10:28:57  
+[大规模付费订阅改变了我的哪一方面？](https://mp.weixin.qq.com/s?__biz=MzAxNzI4MTMwMw==&mid=2651630205&idx=1&sn=51e2037d514ef871fe5e2b5143b34dac&scene=0&key=cf237d7ae24775e8655e02c2ad25c3c689f9591002b4c0c3707531e9180ce9b694e1ddb3acbc7084da662dc748983ff2&ascene=0&uin=MjI2ODA0ODAzNg%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=11020201&pass_ticket=Hu%2Bg5hm4hYNitNk2UJhzl%2FvDZTRPdQZ3VW9Zooj8PTcnoNLEcPBRIp%2BaXH00h%2FU8)
+
+C y m  20:24:37  
+[没有正确的学习方法，笨鸟先飞也没用](http://mp.weixin.qq.com/s?__biz=MzAwOTEzMTkzNw==&mid=2663315068&idx=1&sn=d1a0b03c417d7f4c3aba93ac2b66b65f&scene=2&srcid=0831dd6TFsuUZSnkZI7I71w9&from=timeline&isappinstalled=0#wechat_redirect)
+
+Mr Smile  22:44:31  
+[2016 年最值得学习的五大开源项目](https://gold.xitu.io/entry/57c540d70a2b58006c06b817)
+
+
 ##2016/8/30
 丶四季  11:24:58  
 [拍照、相册及裁剪的终极实现（一）——拍照及裁剪功能实现](http://blog.csdn.net/harvic880925/article/details/43163175)
