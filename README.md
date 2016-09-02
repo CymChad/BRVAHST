@@ -16,7 +16,7 @@
 
 [简单、易懂的解决滑动冲突](http://blog.csdn.net/qq_32763839/article/details/52193392)(作者：丶四季)  
 
-[JAVA基础:static和final](http://blog.csdn.net/qq_16791055/article/details/52198898)(作者：Mr Smile) 
+[JAVA基础:static和final](http://blog.csdn.net/qq_16791055/article/details/52198898)(作者：Mr Smile)   
 [关于Android软键盘弹出的问题](http://blog.csdn.net/qq_16791055/article/details/52343886)(作者：Mr Smile) 
 
 [搭建nexus仓库解决Android公共代码引用问题](http://xdeveloper.cn/da-jian-nexuscang-ku-jie-jue-androidgong-gong-dai-ma-yin-wen-wen-ti/)(作者：_再见理想)  
