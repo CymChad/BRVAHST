@@ -7,8 +7,8 @@
 [Android WebView：JavaScript 调用效率哪家强？](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)(作者：Damon)  
 [Android WebView：我是怎么和 JavaScript 互撩的？](http://motalks.cn/2016/08/27/Android-WebView-JavaScript-2/)(作者：Damon) 
 
-[Retrofit使用flatmap操作符时处理错误、异常](http://blog.csdn.net/jdsjlzx/article/details/52096405)(作者：一叶飘舟) 
-[Android Retrofit实现文件和多张图片一起上传(](http://blog.csdn.net/jdsjlzx/article/details/52246114)(作者：一叶飘舟) 
+[Retrofit使用flatmap操作符时处理错误、异常](http://blog.csdn.net/jdsjlzx/article/details/52096405)(作者：一叶飘舟)  
+[Android Retrofit实现文件和多张图片一起上传(](http://blog.csdn.net/jdsjlzx/article/details/52246114)(作者：一叶飘舟)  
 [Android Retrofit实现图文上传-文字参数类型](http://blog.csdn.net/jdsjlzx/article/details/52301505)(作者：一叶飘舟) 
 
 [Android Studio下SVN的用法(1) - 初识SVN](http://blog.csdn.net/bevislius/article/details/52193165)(作者：尤宇 °)  
