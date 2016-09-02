@@ -1,6 +1,7 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 ![](https://github.com/CymChad/BRVAHST/blob/master/share.png)
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##[2016/9](https://github.com/CymChad/BRVAHST/blob/master/September.md)
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
 ###分享者原创文章
 [Android中WebView与JavaScript的交互（一）,各种Js](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)(作者：Damon)  
