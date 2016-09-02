@@ -27,7 +27,7 @@
 
 
 [从拖延到高效，我推荐这7本书](http://www.jianshu.com/p/dcd62fbece07)(作者：C y m)  
-[从拖延到高效，我推荐这7本书](http://www.jianshu.com/p/dcd62fbece07)(作者：C y m)  
+[如何实施代码重构？](http://www.jianshu.com/p/dac7979f5a29)(作者：C y m)  
 
 [Android学习之路（一）](http://www.jianshu.com/p/4ca2774bdf4c?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)(作者：吻中求胜)  
 
