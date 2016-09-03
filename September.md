@@ -1,5 +1,12 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/2
+Damon   16:34:21  
+[别人的故事你怎么能信](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056918&idx=1&sn=08839ca4bb566e790cf4917b58bef7f5&scene=1&srcid=0902WhRA3m3ISgGFisay5T5L#rd)
+
+Mr Smile  22:43:35  
+[Gradle 完整指南（Android）](https://gold.xitu.io/entry/57c7a00e0a2b58006b1a1358)
+
 ##2016/9/1
 Be there  08:58:40  
 [Google官方详解Android性能优化](http://blog.csdn.net/chivalrousman/article/details/51553114)
