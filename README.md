@@ -2,6 +2,8 @@
 ![](https://github.com/CymChad/BRVAHST/blob/master/share.png)
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##[2016/9](https://github.com/CymChad/BRVAHST/blob/master/September.md)
+###分享者原创文章
+[Android开发最佳实践——1.接口设计](http://loshine.me/2016/09/01/android-best-practice-p1-interface-design/)(作者：Titanium)  
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
 ###分享者原创文章
 [Android WebView：JavaScript 调用效率哪家强？](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)(作者：Damon)  
