@@ -2,10 +2,10 @@
 ![](https://github.com/CymChad/BRVAHST/blob/master/share.png)
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##[2016/9](https://github.com/CymChad/BRVAHST/blob/master/September.md)
-###分享者原创文章
+###九月原创文章
 [Android开发最佳实践——1.接口设计](http://loshine.me/2016/09/01/android-best-practice-p1-interface-design/)(作者：Titanium)  
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
-###分享者原创文章
+###八月原创文章
 [Android WebView：JavaScript 调用效率哪家强？](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)(作者：Damon)  
 [Android WebView：我是怎么和 JavaScript 互撩的？](http://motalks.cn/2016/08/27/Android-WebView-JavaScript-2/)(作者：Damon)   
 [Retrofit使用flatmap操作符时处理错误、异常](http://blog.csdn.net/jdsjlzx/article/details/52096405)(作者：一叶飘舟)  
@@ -29,7 +29,7 @@
 [自定义View之自定义属性](http://loshine.me/2016/08/13/custom-view-attrs/)(作者：Titanium)  
 [RecyclerView.Adapter：全能notify解决方案](http://loshine.me/2016/08/25/a-universal-solution-of-recyclerview-adapter-notify/)(作者：Titanium)  
 [失败的自定义View总结](http://blog.csdn.net/qq_27965461/article/details/52203994)(作者：数据搬运工.帅)
-###精选分享链接
+###八月精选链接
 [RxJava系列专题（Android方向）](http://www.jianshu.com/collection/d79a6385bded)(分享者：吻中求胜)  
 [2016 年最值得学习的五大开源项目](http://gold.xitu.io/entry/57c540d70a2b58006c06b817)(分享者：Mr Smile)  
 [没有正确的学习方法，笨鸟先飞也没用](http://mp.weixin.qq.com/s?__biz=MzAwOTEzMTkzNw==&mid=2663315068&idx=1&sn=d1a0b03c417d7f4c3aba93ac2b66b65f&scene=2&srcid=0831dd6TFsuUZSnkZI7I71w9&from=timeline&isappinstalled=0#wechat_redirect)(分享者：C y m)  
