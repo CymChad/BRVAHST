@@ -1,6 +1,10 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
-##2016/9/2
+##2016/9/3
+C y m  10:09:52  
+[同事是你共享生命的战友](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056932&idx=1&sn=7fe1887d2aa0f2a0fc2a4ee91e35ab28&scene=0#wechat_redirect)
+
+##2016/9/2)
 Damon   16:34:21  
 [别人的故事你怎么能信](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056918&idx=1&sn=08839ca4bb566e790cf4917b58bef7f5&scene=1&srcid=0902WhRA3m3ISgGFisay5T5L#rd)
 
