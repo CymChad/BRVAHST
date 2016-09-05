@@ -1,5 +1,14 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/4
+一叶飘舟  00:18:29  
+[androidListView/Recyclerview滚动时自动调用onChecke](http://blog.csdn.net/jdsjlzx/article/details/52426868)(原创)
+
+C y m  10:36:34  
+[http://www.jianshu.com/p/9240d7cbbb37](http://www.jianshu.com/p/9240d7cbbb37)
+
+Mr Smile  22:39:19  
+[APP淘宝，你为什么这么慢卡？](http://www.jianshu.com/p/423b77c15af3)
 ##2016/9/3
 C y m  10:09:52  
 [同事是你共享生命的战友](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056932&idx=1&sn=7fe1887d2aa0f2a0fc2a4ee91e35ab28&scene=0#wechat_redirect)
