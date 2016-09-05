@@ -13,7 +13,7 @@ Mr Smile  22:39:19
 C y m  10:09:52  
 [同事是你共享生命的战友](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056932&idx=1&sn=7fe1887d2aa0f2a0fc2a4ee91e35ab28&scene=0#wechat_redirect)
 
-##2016/9/2)
+##2016/9/2
 Damon   16:34:21  
 [别人的故事你怎么能信](http://mp.weixin.qq.com/s?__biz=MzAwMDgyMTA3Mg==&mid=2650056918&idx=1&sn=08839ca4bb566e790cf4917b58bef7f5&scene=1&srcid=0902WhRA3m3ISgGFisay5T5L#rd)
 
@@ -23,9 +23,6 @@ Mr Smile  22:43:35
 ##2016/9/1
 Be there  08:58:40  
 [Google官方详解Android性能优化](http://blog.csdn.net/chivalrousman/article/details/51553114)
-
-Titanium  12:17:00  
-[自定义View进阶篇-Matrix详解](http://www.gcssloop.com/2015/02/Matrix_Method/)
 
 Be there  12:30:16  
 [Android 高级攻城狮阅读源码的经验](http://www.jianshu.com/p/be86e5678252?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
