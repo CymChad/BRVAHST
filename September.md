@@ -5,7 +5,7 @@
 [androidListView/Recyclerview滚动时自动调用onChecke](http://blog.csdn.net/jdsjlzx/article/details/52426868)(原创)
 
 C y m  10:36:34  
-[http://www.jianshu.com/p/9240d7cbbb37](http://www.jianshu.com/p/9240d7cbbb37)
+[如何成为卓有成效的管理者？](http://www.jianshu.com/p/9240d7cbbb37)(原创)
 
 Mr Smile  22:39:19  
 [APP淘宝，你为什么这么慢卡？](http://www.jianshu.com/p/423b77c15af3)
