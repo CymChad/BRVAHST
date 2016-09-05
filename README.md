@@ -4,6 +4,8 @@
 ##[2016/9](https://github.com/CymChad/BRVAHST/blob/master/September.md)
 ###九月原创文章
 [Android开发最佳实践——1.接口设计](http://loshine.me/2016/09/01/android-best-practice-p1-interface-design/)(作者：Titanium)  
+[androidListView/Recyclerview滚动时自动调用onChecke](http://blog.csdn.net/jdsjlzx/article/details/52426868)(作者：一叶飘舟)  
+[如何成为卓有成效的管理者？](http://www.jianshu.com/p/9240d7cbbb37)(作者：C y m)  
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
 ###八月原创文章
 [Android WebView：JavaScript 调用效率哪家强？](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)(作者：Damon)  
