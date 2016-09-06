@@ -1,5 +1,12 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/5
+Be there  18:34:03  
+[Android攻城狮—全套必备神级工具（开发，插件，效率）](http://www.jianshu.com/p/0911efbf8009?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+Titanium  18:39:33  
+[自定义View进阶篇-Matrix详解](http://www.gcssloop.com/customview/Matrix_Method/)
+
 ##2016/9/4
 一叶飘舟  00:18:29  
 [androidListView/Recyclerview滚动时自动调用onChecke](http://blog.csdn.net/jdsjlzx/article/details/52426868)(原创)
