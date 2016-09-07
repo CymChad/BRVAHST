@@ -1,5 +1,21 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/6  
+Titanium  10:02:31  
+[RxGalleryFinal：Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制](https://github.com/FinalTeam/RxGalleryFinal)
+
+淡漠de人生  11:08:24  
+[RecyclerView实现的弹幕之中文DOC](http://www.jianshu.com/p/6649f5239aef#)
+
+Mr Smile  12:13:31  
+[你应该知道的HTTP基础知识](http://www.jianshu.com/p/e544b7a76dac?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+
+丶四季  14:05:54  
+[仿淘宝、京东多重商品属性组合Sku标签](http://blog.csdn.net/qq_32763839/article/details/52449037)(原创)
+
+C y m  15:28:07  
+[普通人的当众讲话技能](http://zhibimo.com/read/xiaolai/wo-ye-you-hua-yao-shuo--pu-tong-ren-de-jiang-yan-ji-neng/)
+
 ##2016/9/5
 Be there  18:34:03  
 [Android攻城狮—全套必备神级工具（开发，插件，效率）](http://www.jianshu.com/p/0911efbf8009?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
