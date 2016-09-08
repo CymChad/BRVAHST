@@ -1,5 +1,9 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/7  
+C y m  14:17:35  
+[ReactiveX/RxJava文档中文版](https://mcxiaoke.gitbooks.io/rxdocs/content/Intro.html)
+
 ##2016/9/6  
 Titanium  10:02:31  
 [RxGalleryFinal：Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制](https://github.com/FinalTeam/RxGalleryFinal)
