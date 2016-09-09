@@ -1,5 +1,15 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/8
+C y m  10:39:37  
+[这就是别人学习高效的原因](http://www.jianshu.com/p/f01ec37c61e2)(原创)
+
+C y m  15:27:21  
+[如何利用工具提高你的 Android 代码质量](http://www.open-open.com/lib/view/open1436497439973.html)
+
+Titanium  19:41:19  
+[懒人福音：包学包会的简易科学上网指南](https://www.loyalsoldier.me/an-easy-guideline-to-fuck-the-gfw/)
+
 ##2016/9/7  
 C y m  14:17:35  
 [ReactiveX/RxJava文档中文版](https://mcxiaoke.gitbooks.io/rxdocs/content/Intro.html)
