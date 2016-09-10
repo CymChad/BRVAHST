@@ -1,5 +1,9 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/9
+淡漠de人生  10:59:53  
+[手把手教学 Android用jsoup解析html](http://www.jianshu.com/p/a620a2664f58)
+
 ##2016/9/8
 C y m  10:39:37  
 [这就是别人学习高效的原因](http://www.jianshu.com/p/f01ec37c61e2)(原创)
