@@ -1,5 +1,15 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/11
+C y m  11:27:31  
+[Intro To RxJava 系列教程 总结](http://blog.chengyunfeng.com/?p=983)
+
+Be there  19:22:45  
+[Android 通知栏Notification介绍](http://www.jianshu.com/p/8c7558f4914b?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)(原创)
+
+Damon   23:13:36  
+[Android WebView：性能优化不得不说的事](http://motalks.cn/2016/09/11/Android-WebView-JavaScript-3/)(原创)
+
 ##2016/9/10
 C y m  13:56:46  
 [Android 你必须了解的网络框架Retrofit2.0](http://www.jianshu.com/p/a94e38636fde)
