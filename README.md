@@ -8,6 +8,8 @@
 [如何成为卓有成效的管理者？](http://www.jianshu.com/p/9240d7cbbb37)(作者：C y m)  
 [仿淘宝、京东多重商品属性组合Sku标签](http://blog.csdn.net/qq_32763839/article/details/52449037)(作者：丶四季)  
 [这就是别人学习高效的原因](http://www.jianshu.com/p/f01ec37c61e2)(作者：C y m)  
+[Android 通知栏Notification介绍](http://www.jianshu.com/p/8c7558f4914b?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)(作者:Be there)  
+[Android WebView：性能优化不得不说的事](http://motalks.cn/2016/09/11/Android-WebView-JavaScript-3/)(作者:Damon)  
 
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
 ###八月原创文章
