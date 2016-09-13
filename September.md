@@ -1,5 +1,12 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/12
+Titanium  11:30:47  
+[破解高德SDK实现免key](http://caiyao.name/2016/09/10/%E7%A0%B4%E8%A7%A3%E9%AB%98%E5%BE%B7SDK%E5%AE%9E%E7%8E%B0%E5%85%8Dkey/)
+
+C y m  21:30:50 
+[LOL设计模式之「策略模式」](http://gold.xitu.io/post/57d65eac7db2a200684109dc)
+
 ##2016/9/11
 C y m  11:27:31  
 [Intro To RxJava 系列教程 总结](http://blog.chengyunfeng.com/?p=983)
