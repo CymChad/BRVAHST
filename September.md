@@ -4,8 +4,8 @@
 Titanium  11:30:47  
 [破解高德SDK实现免key](http://caiyao.name/2016/09/10/%E7%A0%B4%E8%A7%A3%E9%AB%98%E5%BE%B7SDK%E5%AE%9E%E7%8E%B0%E5%85%8Dkey/)
 
-C y m  21:30:50 
-[LOL设计模式之「策略模式」](http://gold.xitu.io/post/57d65eac7db2a200684109dc)
+C y m  21:30:50   
+[LOL设计模式之「策略模式」](http://gold.xitu.io/post/57d65eac7db2a200684109dc)(原创)
 
 ##2016/9/11
 C y m  11:27:31  
