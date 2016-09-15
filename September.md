@@ -1,5 +1,9 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/14
+Mr Smile  22:15:47  
+[简单科普下 hosts 文件原理与制作](https://gold.xitu.io/entry/57c051767db2a20068f2b000)
+
 ##2016/9/13
 一叶飘舟  10:05:36  
 [Android初识Retrofit](http://blog.csdn.net/jdsjlzx/article/details/52015347)
