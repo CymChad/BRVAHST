@@ -1,5 +1,9 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/17
+C y m  16:09:47  
+[Android Weekly 值得收藏的项](http://frodoking.github.io/2016/03/01/android-weekly/)
+
 ##2016/9/15
 C y m  23:52:31  
 [如何找到自己的天赋，并将它发展成你的事业](http://www.jianshu.com/p/cbfcefec2947)
