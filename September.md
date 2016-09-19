@@ -1,5 +1,21 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/18
+Mr Smile  12:43:02  
+[2016 年最受欢迎的编程语言是什么](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662233&idx=1&sn=237bbf3d12cddf4094b76c064f658389&scene=1&srcid=09180ymQTxA5UHnJGhdB0O62#rd)
+
+C y m  16:22:18   
+[会做笔记和不会做笔记，差别有多大？](http://www.jianshu.com/p/1f0b0aa9e55e)
+
+谢『惜缘』%  11:26:28
+[详谈高大上的图片加载框架Glide -源码篇](http://blog.csdn.net/xiehuimx/article/details/52550990)(原创)
+
+谢『惜缘』%  11:26:28  
+[详谈高大上的图片加载框架Glide -源码篇](http://blog.csdn.net/xiehuimx/article/details/52550990)(原创)
+
+淡漠de人生  00:22:47  
+[我是如何把“问卷星”玩坏的](http://www.jianshu.com/p/598b9dfcfaec)(原创)
+
 ##2016/9/17
 C y m  16:09:47  
 [Android Weekly 值得收藏的项](http://frodoking.github.io/2016/03/01/android-weekly/)
