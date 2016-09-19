@@ -11,6 +11,8 @@
 [Android 通知栏Notification介绍](http://www.jianshu.com/p/8c7558f4914b?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)(作者:Be there)  
 [Android WebView：性能优化不得不说的事](http://motalks.cn/2016/09/11/Android-WebView-JavaScript-3/)(作者:Damon)  
 [LOL设计模式之「策略模式」](http://www.jianshu.com/p/47b711eab4c5)(作者:C y m)  
+[详谈高大上的图片加载框架Glide -源码篇](http://blog.csdn.net/xiehuimx/article/details/52550990)(作者:谢『惜缘』%)  
+[我是如何把“问卷星”玩坏的](http://www.jianshu.com/p/598b9dfcfaec)(作者:淡漠)  
 
 
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
