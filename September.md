@@ -7,9 +7,6 @@ Mr Smile  12:43:02
 C y m  16:22:18   
 [会做笔记和不会做笔记，差别有多大？](http://www.jianshu.com/p/1f0b0aa9e55e)
 
-谢『惜缘』%  11:26:28
-[详谈高大上的图片加载框架Glide -源码篇](http://blog.csdn.net/xiehuimx/article/details/52550990)(原创)
-
 谢『惜缘』%  11:26:28  
 [详谈高大上的图片加载框架Glide -源码篇](http://blog.csdn.net/xiehuimx/article/details/52550990)(原创)
 
