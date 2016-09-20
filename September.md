@@ -1,5 +1,18 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/19
+Be there  08:09:53  
+[看看大神们（彭小六、战隼）的知识管理](http://www.jianshu.com/p/2f82bfad36c5?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
+
+C y m  14:35:15  
+[RxJava常用操作符](http://www.jianshu.com/p/55838c39beec)
+
+爱孔孟  15:45:41  
+[安卓开发](http://www.jianshu.com/collection/2ddd46458740)
+
+C y m  19:43:11  
+[手账研习课丨HOBO手账最全入坑指南](http://mp.weixin.qq.com/s?__biz=MzAwNTc5NjczMQ==&mid=2651812202&idx=1&sn=895e44f583e2cdc28de9c218f2ed1a01&scene=1&srcid=0912iZ4bSXzcIzQbfiWIrdBR&from=groupmessage&isappinstalled=0#wechat_redirect)
+
 ##2016/9/18
 Mr Smile  12:43:02  
 [2016 年最受欢迎的编程语言是什么](http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650662233&idx=1&sn=237bbf3d12cddf4094b76c064f658389&scene=1&srcid=09180ymQTxA5UHnJGhdB0O62#rd)
