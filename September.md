@@ -1,5 +1,15 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/20
+爱孔孟  14:40:56  
+[Android属性动画进阶用法](http://url.cn/2FksGeg)
+
+爱孔孟  16:59:29  
+[Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
+
+爱孔孟  22:26:08  
+[Java网络编程基础复习](http://blog.csdn.net/aikongmeng/article/details/52594818)
+
 ##2016/9/19
 Be there  08:09:53  
 [看看大神们（彭小六、战隼）的知识管理](http://www.jianshu.com/p/2f82bfad36c5?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=qq)
