@@ -7,6 +7,9 @@
 爱孔孟  16:59:29  
 [Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
 
+Damon   18:52:51  
+[Android Studio 2.2 来啦](http://url.cn/2IrPHzt)
+
 爱孔孟  22:26:08  
 [Java网络编程基础复习](http://blog.csdn.net/aikongmeng/article/details/52594818)
 
