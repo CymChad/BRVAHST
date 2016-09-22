@@ -1,5 +1,12 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/21
+C y m  09:39:19  
+[学习时我们需要什么工具？](http://mp.weixin.qq.com/s?__biz=MzAwNTc5NjczMQ==&mid=2651812220&idx=1&sn=29f6fc6f2703ec2cd0302db906699e2f&scene=0#wechat_redirect) 
+
+丶四季  11:08:50  
+[Java常用排序算法/程序员必须掌握的8大排序](http://blog.csdn.net/qy1387/article/details/7752973)
+
 ##2016/9/20
 爱孔孟  14:40:56  
 [Android属性动画进阶用法](http://url.cn/2FksGeg)
