@@ -1,5 +1,12 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/22
+谢『惜缘』%  10:59:03  
+[微信正式推出应用号“小程序”，你关心的](http://www.tmtpost.com/2479135.html)
+
+ 谢『惜缘』%  00:34:59  
+[微信小程序环境搭建](http://blog.csdn.net/xiehuimx/article/details/52629657)(原创)
+
 ##2016/9/21
 C y m  09:39:19  
 [学习时我们需要什么工具？](http://mp.weixin.qq.com/s?__biz=MzAwNTc5NjczMQ==&mid=2651812220&idx=1&sn=29f6fc6f2703ec2cd0302db906699e2f&scene=0#wechat_redirect) 
