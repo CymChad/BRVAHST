@@ -13,7 +13,7 @@
 [LOL设计模式之「策略模式」](http://www.jianshu.com/p/47b711eab4c5)(作者:C y m)  
 [详谈高大上的图片加载框架Glide -源码篇](http://blog.csdn.net/xiehuimx/article/details/52550990)(作者:谢『惜缘』%)  
 [我是如何把“问卷星”玩坏的](http://www.jianshu.com/p/598b9dfcfaec)(作者:淡漠)  
-[微信小程序环境搭建](http://blog.csdn.net/xiehuimx/article/details/52629657)(作者:谢『惜缘』%)
+[微信小程序环境搭建](http://blog.csdn.net/xiehuimx/article/details/52629657)(作者:谢『惜缘』%)  
 [不得不学的js技巧之关键字this](http://www.jianshu.com/p/938aedb0f871)(作者:milter)
 
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
