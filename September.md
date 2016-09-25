@@ -1,5 +1,13 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/25
+爱孔孟  11:22:50  
+[阿里负责人揭秘面试潜规则](http://url.cn/2E49c2Y)
+
+##2016/9/24
+C y m  12:12:10  
+[公众平台小程序文档和工具](http://mp.weixin.qq.com/s?__biz=MjM5NDAwMTA2MA==&mid=2695729592&idx=1&sn=29428ff0c98a420d59cfbe27cb326de6&chksm=83d74873b4a0c165299511e6e5491115da7f6d4588d66deba6a55b2388033e05e221308f248e&scene=2&srcid=0924lXka63ql7azq8jjclVAr&from=timeline&isappinstalled=0#wechat_redirect)
+
 ##2016/9/23
 milter  07:52:12  
 [不得不学的js技巧之关键字this](http://www.jianshu.com/p/938aedb0f871)(原创)
