@@ -2,10 +2,10 @@
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##2016/9/26  
 Damon   00:39:41  
-[Android LocationManager，报上你的经纬度！](http://motalks.cn/2016/09/26/Android%20LocationManager%EF%BC%8C%E6%8A%A5%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%BB%8F%E7%BA%AC%E5%BA%A6%EF%BC%81/#more)
+[Android LocationManager，报上你的经纬度！](http://motalks.cn/2016/09/26/Android%20LocationManager%EF%BC%8C%E6%8A%A5%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%BB%8F%E7%BA%AC%E5%BA%A6%EF%BC%81/#more)(原创)
 
 Mr Smile  08:33:52  
-[记：魅族面试经历](http://blog.csdn.net/qq_16791055/article/details/52675535)
+[记：魅族面试经历](http://blog.csdn.net/qq_16791055/article/details/52675535)(原创)
 
 ##2016/9/25  
 淡漠de人生  16:10:51  
