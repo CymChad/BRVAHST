@@ -15,8 +15,8 @@
 [详谈高大上的图片加载框架Glide -源码篇](http://blog.csdn.net/xiehuimx/article/details/52550990)(作者:谢『惜缘』%)  
 [我是如何把“问卷星”玩坏的](http://www.jianshu.com/p/598b9dfcfaec)(作者:淡漠)  
 [微信小程序环境搭建](http://blog.csdn.net/xiehuimx/article/details/52629657)(作者:谢『惜缘』%)  
-[不得不学的js技巧之关键字this](http://www.jianshu.com/p/938aedb0f871)(作者:milter)
- [Android LocationManager，报上你的经纬度！](http://motalks.cn/2016/09/26/Android%20LocationManager%EF%BC%8C%E6%8A%A5%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%BB%8F%E7%BA%AC%E5%BA%A6%EF%BC%81/#more)(作者:Damon)
+[不得不学的js技巧之关键字this](http://www.jianshu.com/p/938aedb0f871)(作者:milter)  
+ [Android LocationManager，报上你的经纬度！](http://motalks.cn/2016/09/26/Android%20LocationManager%EF%BC%8C%E6%8A%A5%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%BB%8F%E7%BA%AC%E5%BA%A6%EF%BC%81/#more)(作者:Damon)  
 [记：魅族面试经历](http://blog.csdn.net/qq_16791055/article/details/52675535)(作者:Mr Smile)
 
 ##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
