@@ -1,5 +1,15 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/26  
+Damon   00:39:41  
+[Android LocationManager，报上你的经纬度！](http://motalks.cn/2016/09/26/Android%20LocationManager%EF%BC%8C%E6%8A%A5%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%BB%8F%E7%BA%AC%E5%BA%A6%EF%BC%81/#more)
+
+Mr Smile  08:33:52  
+[记：魅族面试经历](http://blog.csdn.net/qq_16791055/article/details/52675535)
+
+##2016/9/25  
+淡漠de人生  16:10:51
+[Android 窃取手机中微信聊天记录](http://icodeyou.com/2015/06/05/2015-06-05-%20%E8%8E%B7%E5%8F%96%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95/)
 ##2016/9/25
 爱孔孟  11:22:50  
 [阿里负责人揭秘面试潜规则](http://url.cn/2E49c2Y)
