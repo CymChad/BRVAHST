@@ -1,5 +1,7 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
+##2016/9/27
+分享组制度改革停止分享
 ##2016/9/26  
 Damon   00:39:41  
 [Android LocationManager，报上你的经纬度！](http://motalks.cn/2016/09/26/Android%20LocationManager%EF%BC%8C%E6%8A%A5%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%BB%8F%E7%BA%AC%E5%BA%A6%EF%BC%81/#more)(原创)
