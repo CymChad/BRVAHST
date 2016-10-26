@@ -1,5 +1,5 @@
 #[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
-##本地址停止更新，更新地址 http://gold.xitu.io/user/5714b59a39b057006bdfdda0
+##本地址停止更新，更新地址 www.codegg.cc
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
 ##[2016/9](https://github.com/CymChad/BRVAHST/blob/master/September.md)
 ###九月原创文章
