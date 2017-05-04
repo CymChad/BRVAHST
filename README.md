@@ -1,8 +1,10 @@
-#[BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
-##本地址停止更新，更新地址 www.codegg.cc
+# [BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)分享吧
+
+## 本地址停止更新，关注（微信公众号：码个蛋），每天更新优质文章：Android、职场干货，不定期大神语音分享。
+
 **[目前分享成员](https://github.com/CymChad/BRVAHST/blob/master/Member.md)**，持续分享，推荐**Star!**
-##[2016/9](https://github.com/CymChad/BRVAHST/blob/master/September.md)
-###九月原创文章
+## [2016/9](https://github.com/CymChad/BRVAHST/blob/master/September.md)
+### 九月原创文章
 [Android开发最佳实践——1.接口设计](http://loshine.me/2016/09/01/android-best-practice-p1-interface-design/)(作者：Titanium)  
 [androidListView/Recyclerview滚动时自动调用onChecke](http://blog.csdn.net/jdsjlzx/article/details/52426868)(作者：一叶飘舟)  
 [如何成为卓有成效的管理者？](http://www.jianshu.com/p/9240d7cbbb37)(作者：C y m)  
@@ -18,8 +20,8 @@
  [Android LocationManager，报上你的经纬度！](http://motalks.cn/2016/09/26/Android%20LocationManager%EF%BC%8C%E6%8A%A5%E4%B8%8A%E4%BD%A0%E7%9A%84%E7%BB%8F%E7%BA%AC%E5%BA%A6%EF%BC%81/#more)(作者:Damon)  
 [记：魅族面试经历](http://blog.csdn.net/qq_16791055/article/details/52675535)(作者:Mr Smile)
 
-##[2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
-###八月原创文章
+## [2016/8](https://github.com/CymChad/BRVAHST/blob/master/August.md)
+### 八月原创文章
 [Android WebView：JavaScript 调用效率哪家强？](http://motalks.cn/2016/08/14/Android-WebView-JavaScript-1/)(作者：Damon)  
 [Android WebView：我是怎么和 JavaScript 互撩的？](http://motalks.cn/2016/08/27/Android-WebView-JavaScript-2/)(作者：Damon)   
 [Retrofit使用flatmap操作符时处理错误、异常](http://blog.csdn.net/jdsjlzx/article/details/52096405)(作者：一叶飘舟)  
